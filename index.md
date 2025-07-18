@@ -99,6 +99,14 @@ Web4Now is led by Nai, who guides platform vision, content, and community effort
 
 Web4Now is an outward-facing project of this group.
 
+## Supported By
+- Tree by Linktree
+- FarORG
+- HUE
+- WebC
+- Clima
+And many more.
+
 ## Official Links
 
 - Website: web4now.web.app
