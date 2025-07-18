@@ -72,7 +72,7 @@ Web4Now is a community-driven platform and educational hub that helps people und
 
 The shift to Web4Now reflects a renewed mission:
 
-- **Stay Relevant:** Evolve with the web 's ongoing progress.
+- **Stay Relevant:** Evolve with the web's ongoing progress.
 - **Clarity & Simplicity:** A platform name aligned with the new mission.
 - **Improved Platform:** Draw from experience to refine learning and creator support.
 - **Act Now:** Encourage immediate engagement with new web paradigms.
@@ -128,13 +128,13 @@ Instead of waiting for the next big thing, better tools, or better habits, Web4N
 
 ## Our Motto: Build Better, Now.
 
-Web4Now 's educational focus is immediate and empowering:
+Web4Now's educational focus is immediate and empowering:
 
-- Create, don 't wait for the future
-- Build, don 't just follow frameworks
-- Master, don 't merely memorize
+- Create, don't wait for the future
+- Build, don't just follow frameworks
+- Master, don't merely memorize
 
-You don 't have to wait, remain stuck, or defer progress the only time to build better is now.
+You don't have to wait, remain stuck, or defer progress the only time to build better is now.
 
 ### Learn. Build. Empower.
 
